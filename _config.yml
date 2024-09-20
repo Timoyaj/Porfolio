@@ -1,4 +1,3 @@
-theme: minima
-title: Timothy Yaji Porfolio
-author: Timothy Terungwa Yaji
-description: Hello! I’m Yaji Timothy Terungwa, a passionate Data Analyst and Python Developer. With a strong background in data management, data cleaning, and data visualization, I specialize in transforming raw data into actionable insights. My expertise in Python, along with libraries like Pandas, Plotly, and SQLAlchemy, allows me to create robust and efficient data solutions.
+title: Yaji Timothy Terungwa - Portfolio
+description: Data Scientist | Web Developer | Lecturer
+theme: jekyll-theme-cayman
