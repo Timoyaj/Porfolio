@@ -1,3 +1,12 @@
 title: Yaji Timothy Terungwa - Portfolio
 description: Data Scientist | Web Developer | Lecturer
 theme: jekyll-theme-cayman
+title: Yaji Timothy Terungwa - Portfolio
+description: Data Scientist | Web Developer | Lecturer
+theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: ""
+      type: "images"
+    values:
+      directory: "images"
